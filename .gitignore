@@ -1,0 +1,6 @@
+# Compilados e arquivos da IDE
+out/
+target/
+*.class
+.idea/
+*.iml
